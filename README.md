@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bcarson408
 - 👀 I’m interested in Python,Swift,DEVOPs,Machine Learning,...
 - 🌱 I’m currently learning Machine Learning, ...
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on NOt sure yet
 - 📫 How to reach me bcarson408@yahoo.com
 
 <!---
